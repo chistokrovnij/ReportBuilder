@@ -1,0 +1,14 @@
+D:\c#\for project\набивание руки\Reporter\Reporter\obj\Debug\net8.0\Reporter.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\for project\набивание руки\Reporter\Reporter\obj\Debug\net8.0\Reporter.AssemblyInfoInputs.cache
+D:\c#\for project\набивание руки\Reporter\Reporter\obj\Debug\net8.0\Reporter.AssemblyInfo.cs
+D:\c#\for project\набивание руки\Reporter\Reporter\obj\Debug\net8.0\Reporter.csproj.CoreCompileInputs.cache
+D:\c#\for project\набивание руки\Reporter\Reporter\bin\Debug\net8.0\Reporter.exe
+D:\c#\for project\набивание руки\Reporter\Reporter\bin\Debug\net8.0\Reporter.deps.json
+D:\c#\for project\набивание руки\Reporter\Reporter\bin\Debug\net8.0\Reporter.runtimeconfig.json
+D:\c#\for project\набивание руки\Reporter\Reporter\bin\Debug\net8.0\Reporter.dll
+D:\c#\for project\набивание руки\Reporter\Reporter\bin\Debug\net8.0\Reporter.pdb
+D:\c#\for project\набивание руки\Reporter\Reporter\obj\Debug\net8.0\Reporter.dll
+D:\c#\for project\набивание руки\Reporter\Reporter\obj\Debug\net8.0\refint\Reporter.dll
+D:\c#\for project\набивание руки\Reporter\Reporter\obj\Debug\net8.0\Reporter.pdb
+D:\c#\for project\набивание руки\Reporter\Reporter\obj\Debug\net8.0\Reporter.genruntimeconfig.cache
+D:\c#\for project\набивание руки\Reporter\Reporter\obj\Debug\net8.0\ref\Reporter.dll
